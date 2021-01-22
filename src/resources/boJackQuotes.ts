@@ -3,7 +3,7 @@ export const quotes = [
   "Secretariat: “Before I Leaped, I Should Have Seen The View From Halfway Down.”",
   "Todd: “You Turn Yourself Around. That’s What It’s All About.”",
   "BoJack: “Life’s a b*tch and then you die, right? \n Diane: Sometimes life’s a b*tch and then you keep living.”",
-  "BoJack: “I feel like my life is just a series of unrelated wacky adventures.”",
+  "Todd: “I feel like my life is just a series of unrelated wacky adventures.”",
   "Diane: “That’s the problem. Because he’s so nice, people don’t want to think he’s capable of awful things, so they let him off the hook.”",
   "BoJack: “I need you to tell me that I’m a good person. I know that I can be selfish and narcissistic and self-destructive, but underneath all that, deep down, I’m a good person, and I need you to tell me that I’m good. Diane? Tell me, please, Diane. Tell me that I’m good.”",
   "BoJack: “He’s so stupid, he doesn’t realize how miserable he should be.”",
