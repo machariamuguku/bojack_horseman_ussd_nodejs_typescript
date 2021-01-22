@@ -46,7 +46,7 @@ yarn dev #Run the app on dev mode
 
 yarn build # Build for prod
 
-cd /build && node index.js # Run prod build locally
+cd ./build && node index.js # Run prod build locally
 ```
 
 ## License
