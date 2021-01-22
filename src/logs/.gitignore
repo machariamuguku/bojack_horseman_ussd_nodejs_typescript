@@ -1,0 +1,6 @@
+# Hacky solution to keep empty dir in repo
+
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
