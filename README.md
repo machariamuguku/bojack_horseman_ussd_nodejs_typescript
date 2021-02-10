@@ -2,6 +2,8 @@
 
 [![Project Screenshot-1][product-screenshot-1]](http://www.muguku.co.ke/)
 
+0 . [Video Preview on my Linked-in here](https://www.linkedin.com/posts/machariamuguku_nodejs-expressjs-typescript-activity-6758332708801265665-fHey)
+
 1 . Dial ussd code on gsm handset (mobile phone) e.g `*384*21011#`
 
 2 . Select Option 1 to get a random quote from the netflix show 'BoJack Horseman'
